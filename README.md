@@ -1,0 +1,2 @@
+# showlocal
+showlocal ionic app
